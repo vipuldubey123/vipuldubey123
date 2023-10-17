@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vipul Dubey</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **React.js**
+
 
 - 📫 How to reach me **vipuldubey619@gmail.com**
 
